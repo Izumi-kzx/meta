@@ -1,4 +1,4 @@
-{
+{ 
   "name": "meta",
   "version": "1.0.0",
   "description": "A WebSockets library for interacting with WhatsApp Web",
